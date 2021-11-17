@@ -1,0 +1,35 @@
+---
+content_type: page
+parent_title: Weeks 1-15
+parent_uid: 7dcfa077-073f-b180-d8db-58360a32eb03
+title: Week 10
+uid: 4e4a98ff-bb8d-62a8-c78d-7d413cc22d68
+---
+
+Session 16
+----------
+
+### Topics
+
+Continue discussing [_Nazarin_](http://www.imdb.com/title/tt0051983/?ref_=fn_al_tt_1). 
+
+Student group report on _Nazarín_.
+
+### Film
+
+Watch _[Simón del desierto](http://www.imdb.com/title/tt0059719/?ref_=fn_al_tt_1)_. Directed by Luis Buñuel. Black and White, 43 min. Sindicato de Trabajadores de la Producción Cinematográfica (STPC), 1965.
+
+### _Reading_
+
+\[Discreet Art\] "_Nazarín_." Chapter 4.
+
+Session 17
+----------
+
+Watch [_Viridiana_](http://www.imdb.com/title/tt0055601/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 90 min. Unión Industrial Cinematográfica (UNINCI), Gustavo Alatriste, Films 59, 1961.
+
+### Reading
+
+"[El éxito de una película prohibida: Viridiana (1961)](http://cvc.cervantes.es/actcult/bunuel/obra/viridiana.htm)." Centro Virtual Cervantes.
+
+« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-9) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-11) »
